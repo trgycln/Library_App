@@ -1,0 +1,37 @@
+{
+  "books": [
+    {
+      "id": "1678966268669",
+      "title": "Kurtuluş",
+      "author": "Kemal Okur",
+      "publisher": "kjhkjh",
+      "price": "40",
+      "isbn": "12365478",
+      "categoryId": "1678965713155"
+    },
+    {
+      "id": "1678970809600",
+      "title": "Kurtlarla dans",
+      "author": "ne bilem ben",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "categoryId": "1678965713155"
+    },
+    {
+      "id": "1678970966559",
+      "title": "asdasd",
+      "author": "asdasda",
+      "publisher": "",
+      "price": "",
+      "isbn": "",
+      "categoryId": "1678965713155"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1678965713155",
+      "name": "Hikaye"
+    }
+  ]
+}
